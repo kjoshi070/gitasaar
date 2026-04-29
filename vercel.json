@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npm --prefix app install && npm --prefix app run build",
+  "buildCommand": "npm --prefix app install --legacy-peer-deps && npm --prefix app run build",
   "outputDirectory": "app/dist",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
