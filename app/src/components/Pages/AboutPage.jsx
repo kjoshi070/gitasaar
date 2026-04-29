@@ -185,6 +185,7 @@ export default function AboutPage() {
               kedar.joshi070@gmail.com ↗
             </a>
           </div>
+          Created by: Kedar Joshi and Awani Joshi
         </div>
       </section>
 
