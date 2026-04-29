@@ -1,0 +1,24 @@
+{
+  "firstStartTime": "2026-04-28T18:18:44.547Z",
+  "opusProMigrationComplete": true,
+  "opusProMigrationTimestamp": 1777400324561,
+  "sonnet1m45MigrationComplete": true,
+  "migrationVersion": 12,
+  "userID": "2da8ee8da56a2a14293a6450a3ef4e9499bca506f8c4af44d19167e23fe861b0",
+  "cachedChromeExtensionInstalled": true,
+  "changelogLastFetched": 1777400324659,
+  "oauthAccount": {
+    "accountUuid": "3685c55c-a5f9-447d-b1c7-c2eff225b8cf",
+    "emailAddress": "kedar.joshi070@gmail.com",
+    "organizationUuid": "2fc46e0f-523d-4a45-8a65-90edfd6e2624",
+    "hasExtraUsageEnabled": true,
+    "billingType": "stripe_subscription",
+    "accountCreatedAt": "2025-03-12T23:23:00.863207Z",
+    "subscriptionCreatedAt": "2025-10-28T17:29:26.493549Z",
+    "ccOnboardingFlags": {},
+    "claudeCodeTrialEndsAt": null,
+    "claudeCodeTrialDurationDays": null,
+    "seatTier": null,
+    "displayName": "Kedar Joshi"
+  }
+}
